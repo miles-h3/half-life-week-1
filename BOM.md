@@ -19,7 +19,7 @@
 | [0.96 OLED](https://www.amazon.ca/CANADUINO-OLED-Display-128x64-Pixel/dp/B077D4RQG1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A29AOP4GIE7DX6) | display | 1 | $4.99 | $4.99 | [CANADUINO](https://www.amazon.ca/CANADUINO-OLED-Display-128x64-Pixel/dp/B077D4RQG1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A29AOP4GIE7DX6) |
 | [MX Switches](https://www.aliexpress.com/item/1005006425450443.html?spm=a2g0o.productlist.main.31.1a953a60LfeCGw&algo_pvid=5692d8fe-bd8f-4918-a173-ef06483bbfe8&algo_exp_id=5692d8fe-bd8f-4918-a173-ef06483bbfe8-30&pdp_ext_f=%7B%22order%22%3A%221275%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%216.52%211.73%21%21%2130.03%217.97%21%4021030f4a17917681311493141e0d36%2112000037120671476%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac85d7ea3%3Bm03_new_user%3A-29895%3BpisId%3A5000000218640848&curPageLogUid=BZTKvtf2mjxB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006425450443%7C_p_origin_prod%3A) | interaction | 10 | $0.12 | $1.20 | [ONEFIRE Store](https://www.aliexpress.com/item/1005006425450443.html?spm=a2g0o.productlist.main.31.1a953a60LfeCGw&algo_pvid=5692d8fe-bd8f-4918-a173-ef06483bbfe8&algo_exp_id=5692d8fe-bd8f-4918-a173-ef06483bbfe8-30&pdp_ext_f=%7B%22order%22%3A%221275%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%216.52%211.73%21%21%2130.03%217.97%21%4021030f4a17917681311493141e0d36%2112000037120671476%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac85d7ea3%3Bm03_new_user%3A-29895%3BpisId%3A5000000218640848&curPageLogUid=BZTKvtf2mjxB&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006425450443%7C_p_origin_prod%3A) |
 | **Parts subtotal** | — | — | — | **$15.52** | — |
-| **Tax & shipping** | — | — | — | **$11.83** | — |
-| **Total** | — | — | — | **$27.35** | — |
+| **Tax & shipping** | — | — | — | **$9.73** | — |
+| **Total** | — | — | — | **$25.25** | — |
 
-$2.65 left of the tier's funding.
+$4.75 left of the tier's funding.
