@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Starbie PCB](https://cart.jlcpcb.com/quote?rand=0.42471665169012707&_t=1791766472333&spm=Jlcpcb.Instantquote.1008&up_spm=Jlcpcb.Loginpage.1003) | wiring all components? | 5 | $0.80 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?rand=0.42471665169012707&_t=1791766472333&spm=Jlcpcb.Instantquote.1008&up_spm=Jlcpcb.Loginpage.1003) |
 | **Parts subtotal** | — | — | — | **$4.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$4.00** | — |
+| **Tax & shipping** | — | — | — | **$3.23** | — |
+| **Total** | — | — | — | **$7.23** | — |
 
-$26.00 left of the tier's funding.
+$22.77 left of the tier's funding.
