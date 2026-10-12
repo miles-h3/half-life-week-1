@@ -15,7 +15,7 @@
 | [Starbie PCB](https://cart.jlcpcb.com/quote?rand=0.42471665169012707&_t=1791766472333&spm=Jlcpcb.Instantquote.1008&up_spm=Jlcpcb.Loginpage.1003) | wiring all components? | 5 | $0.80 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?rand=0.42471665169012707&_t=1791766472333&spm=Jlcpcb.Instantquote.1008&up_spm=Jlcpcb.Loginpage.1003) |
 | [XIAO ESP32C3](https://www.aliexpress.com/item/1005007039705247.html?src=google) | microcontroller | 1 | $0.80 | $0.80 | [Seeedstudio AI Hardware](https://www.aliexpress.com/item/1005007039705247.html?src=google) |
 | **Parts subtotal** | — | — | — | **$4.80** | — |
-| **Tax & shipping** | — | — | — | **$3.23** | — |
-| **Total** | — | — | — | **$8.03** | — |
+| **Tax & shipping** | — | — | — | **$11.83** | — |
+| **Total** | — | — | — | **$16.63** | — |
 
-$21.97 left of the tier's funding.
+$13.37 left of the tier's funding.
