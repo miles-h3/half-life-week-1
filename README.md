@@ -1,7 +1,9 @@
 My half-life week-1 files, guide @ https://github.com/SharKingStudios/Starbie/blob/main/Week%201%20Guide.md  
 Contents:
 - Starbie program file
-- PCB board KiCad design file:
+- Electronics Schematic
+- PCB board KiCad design file  
+<img width="428" height="370" alt="Screenshot 2026-10-11 194530" src="https://github.com/user-attachments/assets/ce0299d8-b929-452d-82da-f371df8d165d" />
 <img width="587" height="531" alt="image" src="https://github.com/user-attachments/assets/5118cc1d-d07d-45b6-84b2-b3ca6cb32428" />
 
 **Tabulated BOM:**
